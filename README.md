@@ -6,4 +6,4 @@ I try to replicate can be found here: http://www.youtube.com/watch?v=NX4rMOsFJWE
 
 The clip begins with a gradual increase in the lighting from complete darkness to "normal" as seen
 in the Lionsgate clip.  During your animation, the camera moves utilizing a Bezier curve.  All gears
-are spinning and some are attached to shafts.
+are spinning and some are attached to shafts.  Four out of the five gears were provided by other classmates.
